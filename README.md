@@ -3,7 +3,7 @@
 
 This repository contains the implementation and optimization details for the ASCON-80pq cryptographic algorithm on the ChipWhisperer Nano platform. The primary focus of this project was to enhance energy efficiency while maintaining robust cryptographic security. Below are the key highlights of the project.
 
-### Introduction
+## Introduction
 
 This project outlines the implementation and subsequent optimization of the ASCON-80pq cryptographic algorithm on the ChipWhisperer Nano platform, focusing on enhancing energy efficiency while maintaining robust security.
 
@@ -11,7 +11,7 @@ The integration of the ASCON algorithm—celebrated for its lightweight and secu
 
 Optimization techniques, including Loop Unrolling, were explored after the initial implementation to refine the algorithm's efficiency. This strategy led to a significant improvement in energy efficiency for both encryption and decryption processes, emphasizing the potential of algorithmic optimizations to reduce energy consumption for cryptographic operations in resource-constrained environments.
 
-### Results and Achievements
+## Results and Achievements
 
 Implementation Highlights:
 Successfully integrated the ASCON-80pq algorithm into the ChipWhisperer Nano environment.
