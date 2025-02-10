@@ -32,3 +32,6 @@ Conclusion
 This project successfully implemented the ASCON-80pq algorithm on the ChipWhisperer Nano platform, achieving notable milestones in cryptographic optimization. The use of Loop Unrolling resulted in remarkable energy efficiency improvements, showcasing its effectiveness for secure, energy-conscious software development.
 
 By achieving energy reductions of over 30% for both encryption and decryption, this work underscores the potential of algorithmic enhancements in modern cryptographic solutions, particularly for resource-constrained environments. These findings contribute to the ongoing advancement of secure and energy-efficient cryptographic technologies.
+
+#### _This implementation is based on the research paper titled "Implementation of Energy Efficient ASCON80pq on Chipwhisperer Nano" by Sneh Trivedi et al. For detailed insights, refer to the publication on [ResearchGate](https://www.researchgate.net/publication/383823692_Implementation_of_Energy_Efficient_ASCON80pq_on_Chipwhisperer_Nano)._
+
